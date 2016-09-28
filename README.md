@@ -1,4 +1,4 @@
 # adinat.github.io
-Personal website of Aditya Natarajan.
-Website : startbootstrap-agency
+Personal website of Aditya Natarajan. <br/>
+Website : startbootstrap-agency <br/>
 Blog : startbootstrap-clean-blog
