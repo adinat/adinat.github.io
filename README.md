@@ -1,3 +1,3 @@
-Personal website of Aditya Natarajan.
-Website theme : startbootstrap-resume
-Blog theme    : startbootstrap-clean-blog
+Personal website of Aditya Natarajan. <br>
+Website theme : startbootstrap-resume <br>
+Blog theme    : startbootstrap-clean-blog <br>
