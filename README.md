@@ -1,3 +1,3 @@
 
-Personal website of Aditya. 
+Personal website of Aditya Natarajan. 
 
