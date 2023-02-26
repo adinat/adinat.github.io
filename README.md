@@ -1,3 +1,1 @@
-
-Personal website of Aditya Natarajan. 
-
+I no longer maintain this page. Find me on LinkedIn instead.
